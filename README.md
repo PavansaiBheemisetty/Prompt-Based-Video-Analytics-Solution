@@ -2,6 +2,11 @@
 
 A powerful video analysis tool that uses the Qwen2-VL vision-language model to analyze video content based on natural language prompts. The system can process videos frame by frame and provide both temporal analysis and summary insights.
 
+## Direct Kaggle Links:
+- Without GUI : https://www.kaggle.com/code/pavansai25/prompt-based-video-analytics-solution
+- With GUI : https://www.kaggle.com/code/pavansaibheemisetty/vlmint1
+Open the link and just run the ipynb file. GUI one may take more time to execute
+
 ## Features
 
 - Supports multiple Qwen2-VL model sizes (2B, 7B, 72B)
