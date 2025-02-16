@@ -46,7 +46,7 @@ analyzer = VideoAnalyzer(model_size="7b")
 results = analyzer.process_video(
     video_path="path/to/video.mp4",
     prompt="Describe the main activities in this video",
-    frame_interval=30  # Optional: adjust frame sampling rate
+    frame_interval=30  
 )
 
 
